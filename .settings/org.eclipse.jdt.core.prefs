@@ -1,0 +1,17 @@
+/* Document Object Model (DOM)
+
+The Document Object Model is (DOM) is an application programming interface (API) for 
+manipulating HTML and XML document 
+(add,remove,modify parts of the document/HTML)
+
+with the object model javascript gets all the power it needs to create dynamic HTML
+
+javascript can chnage all the HTML element in the page
+javascript can chnage all the html attriutes in the page 
+javascript can change all the css styles in the pages
+javascript can remove existng HTML elements and attributes 
+javascript can add new html elements and attributes
+javascript can react to all existing html events in the page
+jasascript can create new html events in the page
+
+note : in the DOM , all HTML elements are defined as objects. so it will have both prop
